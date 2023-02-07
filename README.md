@@ -2,6 +2,8 @@
 
 Add rubber duck behavior to a duck behavior program. Applied strategy pattern and software design principle: Identify the aspects of your application that vary and separate them from what stays the same.
 
+Project Date: September 2022
+
 
 ## Tag
 
